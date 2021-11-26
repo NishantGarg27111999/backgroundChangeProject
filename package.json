@@ -4,9 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-     "start": "node server.js"
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "start": "node server.js"
+     },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NishantGarg27111999/backgroundChangeProject.git"
